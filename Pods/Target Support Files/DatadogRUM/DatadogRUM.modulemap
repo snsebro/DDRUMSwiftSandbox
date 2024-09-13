@@ -1,0 +1,6 @@
+framework module DatadogRUM {
+  umbrella header "DatadogRUM-umbrella.h"
+
+  export *
+  module * { export * }
+}

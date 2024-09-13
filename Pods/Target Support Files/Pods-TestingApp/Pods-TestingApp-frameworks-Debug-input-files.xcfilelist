@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TestingApp/Pods-TestingApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DatadogCore/DatadogCore.framework
+${BUILT_PRODUCTS_DIR}/DatadogInternal/DatadogInternal.framework
+${BUILT_PRODUCTS_DIR}/DatadogRUM/DatadogRUM.framework

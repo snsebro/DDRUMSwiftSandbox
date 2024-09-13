@@ -1,0 +1,25 @@
+PODS:
+  - DatadogCore (2.5.0):
+    - DatadogInternal (= 2.5.0)
+  - DatadogInternal (2.5.0)
+  - DatadogRUM (2.5.0):
+    - DatadogInternal (= 2.5.0)
+
+DEPENDENCIES:
+  - DatadogCore
+  - DatadogRUM
+
+SPEC REPOS:
+  trunk:
+    - DatadogCore
+    - DatadogInternal
+    - DatadogRUM
+
+SPEC CHECKSUMS:
+  DatadogCore: a152fbcc24ea1a6b937c9844b1c1d5b86f0a375e
+  DatadogInternal: 96448807156495aa41a9f177b8c849a404618948
+  DatadogRUM: d807827ad24ae6c738867e853df38c6cb2bb555b
+
+PODFILE CHECKSUM: 10bd4fdbf3c8b7ca945838c63eba3bd03e35726c
+
+COCOAPODS: 1.14.2
